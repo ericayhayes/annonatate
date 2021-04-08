@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/nubian-message-2002-04-18_0001"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Grady McClamrock", "purpose": "commenting", "creator": {"id": "ericayhayes", "name": "Erica Y. Hayes"}, "created": "2021-04-08T17:05:20.831Z", "modified": "2021-04-08T17:05:25.773Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/nubian-message-2002-04-18_0001", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:2501.810302734375,3195.61474609375,1772.455810546875,371.257568359375"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/nubian-message-2002-04-18/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/ee507898-c4a5-44f7-b6cd-4ad89904f5e0.json"}
